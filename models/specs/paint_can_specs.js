@@ -2,7 +2,7 @@ const assert = require("assert");
 const PaintCan = require("../paint_can.js");
 const Room = require("../room.js");
 
-describe("paintCan", function() {
+describe("PaintCan", function() {
 
   let paintCan;
 
