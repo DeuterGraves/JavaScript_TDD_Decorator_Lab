@@ -2,7 +2,7 @@
   "name": "tdd_painter_decorator_lab",
   "version": "1.0.0",
   "description": "",
-  "main": "room.js",
+  "main": "index.js", 
   "scripts": {
     "test": "mocha models/specs"
   },
